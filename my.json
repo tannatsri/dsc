@@ -1,5 +1,26 @@
 [
   {
+    "name": "Saurabh s.",
+    "dp": "https://secure.gravatar.com/avatar/4099685b9de305151776cf415acb96a1.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Integrate with Machine Learning APIs",
+      "Explore Machine Learning Models with Explainable AI",
+      "Engineer Data in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
     "name": "Sarvjeet  S.",
     "dp": "https://secure.gravatar.com/avatar/77f16336702378a73909c13da0dd76f2.png?s=80&d=mm",
     "track1": [
@@ -42,27 +63,6 @@
     "qcomplete_no": 12
   },
   {
-    "name": "Swaraj P.",
-    "dp": "https://secure.gravatar.com/avatar/1d9a7e5eab215d957f725b03bce2da32.png?s=80&d=mm",
-    "track1": [
-      "Build and Secure Networks in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Deploy to Kubernetes in Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Integrate with Machine Learning APIs",
-      "Engineer Data in Google Cloud",
-      "Explore Machine Learning Models with Explainable AI",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Insights from Data with BigQuery",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 12
-  },
-  {
     "name": "Gurdeep S.",
     "dp": "https://secure.gravatar.com/avatar/15c172bc6148070671321092e03ab466.png?s=80&d=mm",
     "track1": [
@@ -79,6 +79,48 @@
       "Engineer Data in Google Cloud",
       "Insights from Data with BigQuery",
       "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "Devesh K.",
+    "dp": "https://secure.gravatar.com/avatar/5301ee77d67f86580c1aae7ba07eb588.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Engineer Data in Google Cloud",
+      "Integrate with Machine Learning APIs",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Explore Machine Learning Models with Explainable AI",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "Swaraj P.",
+    "dp": "https://secure.gravatar.com/avatar/1d9a7e5eab215d957f725b03bce2da32.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Integrate with Machine Learning APIs",
+      "Engineer Data in Google Cloud",
+      "Explore Machine Learning Models with Explainable AI",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Insights from Data with BigQuery",
       "Getting Started: Create and Manage Cloud Resources"
     ],
     "qcomplete_no": 12
@@ -142,6 +184,48 @@
       "Explore Machine Learning Models with Explainable AI",
       "Insights from Data with BigQuery",
       "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "Aryan S.",
+    "dp": "https://secure.gravatar.com/avatar/519fcd3fb328d4939565715061be360f.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Explore Machine Learning Models with Explainable AI",
+      "Integrate with Machine Learning APIs",
+      "Engineer Data in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "Garvit S.",
+    "dp": "https://secure.gravatar.com/avatar/d94f0cf78ecbca51970fafcd00b9f990.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Engineer Data in Google Cloud",
+      "Integrate with Machine Learning APIs",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Explore Machine Learning Models with Explainable AI",
       "Getting Started: Create and Manage Cloud Resources"
     ],
     "qcomplete_no": 12
@@ -224,6 +308,48 @@
       "Explore Machine Learning Models with Explainable AI",
       "Engineer Data in Google Cloud",
       "Integrate with Machine Learning APIs",
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "Aradhy T.",
+    "dp": "https://secure.gravatar.com/avatar/46506374390f3caf89176735124847f5.png?s=80&d=mm",
+    "track1": [
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources",
+      "Integrate with Machine Learning APIs",
+      "Engineer Data in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Explore Machine Learning Models with Explainable AI"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "Shoumil S.",
+    "dp": "https://secure.gravatar.com/avatar/465a2e1a83e3afaf7b34a6d4b096c291.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Engineer Data in Google Cloud",
+      "Integrate with Machine Learning APIs",
+      "Explore Machine Learning Models with Explainable AI",
       "Insights from Data with BigQuery",
       "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
       "Getting Started: Create and Manage Cloud Resources"
@@ -315,6 +441,27 @@
     "qcomplete_no": 12
   },
   {
+    "name": "Vartika j.",
+    "dp": "https://secure.gravatar.com/avatar/37ebf9bd59bfe17ae76dbba8fcd24363.png?s=80&d=mm",
+    "track1": [
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Build and Secure Networks in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Integrate with Machine Learning APIs",
+      "Explore Machine Learning Models with Explainable AI",
+      "Insights from Data with BigQuery",
+      "Engineer Data in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
     "name": "Ritika R.",
     "dp": "https://secure.gravatar.com/avatar/5a2f5eaccfafab99e63634871fe85a08.png?s=80&d=mm",
     "track1": [
@@ -336,8 +483,8 @@
     "qcomplete_no": 12
   },
   {
-    "name": "Shruti  S.",
-    "dp": "https://secure.gravatar.com/avatar/dccedc4f62a1940e3f477cc050352625.png?s=80&d=mm",
+    "name": "Ritika M.",
+    "dp": "https://secure.gravatar.com/avatar/238e0da7fda931510ca6188e3bf1cbfc.png?s=80&d=mm",
     "track1": [
       "Build and Secure Networks in Google Cloud",
       "Deploy to Kubernetes in Google Cloud",
@@ -347,11 +494,11 @@
       "Getting Started: Create and Manage Cloud Resources"
     ],
     "track2": [
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Integrate with Machine Learning APIs",
       "Explore Machine Learning Models with Explainable AI",
       "Engineer Data in Google Cloud",
-      "Integrate with Machine Learning APIs",
       "Insights from Data with BigQuery",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
       "Getting Started: Create and Manage Cloud Resources"
     ],
     "qcomplete_no": 12
@@ -378,6 +525,48 @@
     "qcomplete_no": 12
   },
   {
+    "name": "Aayush G.",
+    "dp": "https://secure.gravatar.com/avatar/74f9533d53aa8daea1784189d21a0adc.png?s=80&d=mm",
+    "track1": [
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Explore Machine Learning Models with Explainable AI",
+      "Integrate with Machine Learning APIs",
+      "Engineer Data in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "Shruti  S.",
+    "dp": "https://secure.gravatar.com/avatar/dccedc4f62a1940e3f477cc050352625.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Explore Machine Learning Models with Explainable AI",
+      "Engineer Data in Google Cloud",
+      "Integrate with Machine Learning APIs",
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
     "name": "Irshan A.",
     "dp": "https://secure.gravatar.com/avatar/2f0e1341b1a440411ced5f29040bbe81.png?s=80&d=mm",
     "track1": [
@@ -391,6 +580,48 @@
     "track2": [
       "Integrate with Machine Learning APIs",
       "Explore Machine Learning Models with Explainable AI",
+      "Engineer Data in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "BULBUL Y.",
+    "dp": "https://secure.gravatar.com/avatar/e6a388dbb09da7b83a3ee844d1da7f63.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Explore Machine Learning Models with Explainable AI",
+      "Integrate with Machine Learning APIs",
+      "Engineer Data in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "Mayankesh M.",
+    "dp": "https://secure.gravatar.com/avatar/15f0c3be423c461aed02057a6b3df140.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Explore Machine Learning Models with Explainable AI",
+      "Integrate with Machine Learning APIs",
       "Engineer Data in Google Cloud",
       "Insights from Data with BigQuery",
       "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
@@ -441,6 +672,69 @@
     "qcomplete_no": 12
   },
   {
+    "name": "Apurwa  S.",
+    "dp": "https://secure.gravatar.com/avatar/1e9dbf1f16f2560dd23abe22f422932f.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Explore Machine Learning Models with Explainable AI",
+      "Integrate with Machine Learning APIs",
+      "Engineer Data in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "SAUMYA D.",
+    "dp": "https://secure.gravatar.com/avatar/5ac9b018a359173c58459603e6463b58.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Engineer Data in Google Cloud",
+      "Integrate with Machine Learning APIs",
+      "Explore Machine Learning Models with Explainable AI",
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "varun s.",
+    "dp": "https://secure.gravatar.com/avatar/40e5e7c5364903e09ef07d5deee461ba.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Engineer Data in Google Cloud",
+      "Integrate with Machine Learning APIs",
+      "Explore Machine Learning Models with Explainable AI",
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
     "name": "Rajat S.",
     "dp": "https://secure.gravatar.com/avatar/1fc421592da40285415b2f59b1a67575.png?s=80&d=mm",
     "track1": [
@@ -483,27 +777,6 @@
     "qcomplete_no": 12
   },
   {
-    "name": "Vaibhav S.",
-    "dp": "https://secure.gravatar.com/avatar/2105faa68ecd621f3f9e89585b371999.png?s=80&d=mm",
-    "track1": [
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Deploy to Kubernetes in Google Cloud",
-      "Build and Secure Networks in Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Integrate with Machine Learning APIs",
-      "Explore Machine Learning Models with Explainable AI",
-      "Engineer Data in Google Cloud",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Insights from Data with BigQuery",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 12
-  },
-  {
     "name": "Vibhu N.",
     "dp": "https://secure.gravatar.com/avatar/fadc9a5fd96fe70f4f65ce764b53708b.png?s=80&d=mm",
     "track1": [
@@ -525,109 +798,10 @@
     "qcomplete_no": 12
   },
   {
-    "name": "Saurabh s.",
-    "dp": "https://secure.gravatar.com/avatar/4099685b9de305151776cf415acb96a1.png?s=80&d=mm",
-    "track1": [
-      "Deploy to Kubernetes in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Integrate with Machine Learning APIs",
-      "Explore Machine Learning Models with Explainable AI",
-      "Engineer Data in Google Cloud",
-      "Insights from Data with BigQuery",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 11
-  },
-  {
-    "name": "Garvit S.",
-    "dp": "https://secure.gravatar.com/avatar/d94f0cf78ecbca51970fafcd00b9f990.png?s=80&d=mm",
-    "track1": [
-      "Build and Secure Networks in Google Cloud",
-      "Deploy to Kubernetes in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Integrate with Machine Learning APIs",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Insights from Data with BigQuery",
-      "Explore Machine Learning Models with Explainable AI",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 11
-  },
-  {
-    "name": "Shoumil S.",
-    "dp": "https://secure.gravatar.com/avatar/465a2e1a83e3afaf7b34a6d4b096c291.png?s=80&d=mm",
-    "track1": [
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Deploy to Kubernetes in Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Engineer Data in Google Cloud",
-      "Integrate with Machine Learning APIs",
-      "Explore Machine Learning Models with Explainable AI",
-      "Insights from Data with BigQuery",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 11
-  },
-  {
-    "name": "varun s.",
-    "dp": "https://secure.gravatar.com/avatar/40e5e7c5364903e09ef07d5deee461ba.png?s=80&d=mm",
-    "track1": [
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Deploy to Kubernetes in Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Engineer Data in Google Cloud",
-      "Integrate with Machine Learning APIs",
-      "Explore Machine Learning Models with Explainable AI",
-      "Insights from Data with BigQuery",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 11
-  },
-  {
-    "name": "SAUMYA D.",
-    "dp": "https://secure.gravatar.com/avatar/5ac9b018a359173c58459603e6463b58.png?s=80&d=mm",
-    "track1": [
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Deploy to Kubernetes in Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Engineer Data in Google Cloud",
-      "Integrate with Machine Learning APIs",
-      "Explore Machine Learning Models with Explainable AI",
-      "Insights from Data with BigQuery",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 11
-  },
-  {
     "name": "Sanidhya J.",
     "dp": "https://secure.gravatar.com/avatar/ea8c39f125e587ffa6645334eb29a4f7.png?s=80&d=mm",
     "track1": [
+      "Build and Secure Networks in Google Cloud",
       "Deploy to Kubernetes in Google Cloud",
       "Deploy and Manage Cloud Environments with Google Cloud",
       "Set up and Configure a Cloud Environment in Google Cloud",
@@ -640,162 +814,58 @@
       "Engineer Data in Google Cloud",
       "Insights from Data with BigQuery",
       "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "Vaibhav S.",
+    "dp": "https://secure.gravatar.com/avatar/2105faa68ecd621f3f9e89585b371999.png?s=80&d=mm",
+    "track1": [
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Build and Secure Networks in Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Integrate with Machine Learning APIs",
+      "Explore Machine Learning Models with Explainable AI",
+      "Engineer Data in Google Cloud",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 12
+  },
+  {
+    "name": "Ratnesh K.",
+    "dp": "https://secure.gravatar.com/avatar/67e9712a56f7464d93b3f6dc00067d17.png?s=80&d=mm",
+    "track1": [
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Build and Secure Networks in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Explore Machine Learning Models with Explainable AI",
+      "Engineer Data in Google Cloud",
+      "Integrate with Machine Learning APIs",
+      "Insights from Data with BigQuery",
       "Getting Started: Create and Manage Cloud Resources"
     ],
     "qcomplete_no": 11
-  },
-  {
-    "name": "Devesh K.",
-    "dp": "https://secure.gravatar.com/avatar/5301ee77d67f86580c1aae7ba07eb588.png?s=80&d=mm",
-    "track1": [
-      "Deploy to Kubernetes in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Integrate with Machine Learning APIs",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Insights from Data with BigQuery",
-      "Explore Machine Learning Models with Explainable AI",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 10
-  },
-  {
-    "name": "Vartika j.",
-    "dp": "https://secure.gravatar.com/avatar/37ebf9bd59bfe17ae76dbba8fcd24363.png?s=80&d=mm",
-    "track1": [
-      "Build and Secure Networks in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Integrate with Machine Learning APIs",
-      "Explore Machine Learning Models with Explainable AI",
-      "Insights from Data with BigQuery",
-      "Engineer Data in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 10
-  },
-  {
-    "name": "Ritika M.",
-    "dp": "https://secure.gravatar.com/avatar/238e0da7fda931510ca6188e3bf1cbfc.png?s=80&d=mm",
-    "track1": [
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Integrate with Machine Learning APIs",
-      "Explore Machine Learning Models with Explainable AI",
-      "Engineer Data in Google Cloud",
-      "Insights from Data with BigQuery",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 10
-  },
-  {
-    "name": "Apurwa  S.",
-    "dp": "https://secure.gravatar.com/avatar/1e9dbf1f16f2560dd23abe22f422932f.png?s=80&d=mm",
-    "track1": [
-      "Deploy to Kubernetes in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Explore Machine Learning Models with Explainable AI",
-      "Integrate with Machine Learning APIs",
-      "Engineer Data in Google Cloud",
-      "Insights from Data with BigQuery",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 10
-  },
-  {
-    "name": "Aryan S.",
-    "dp": "https://secure.gravatar.com/avatar/519fcd3fb328d4939565715061be360f.png?s=80&d=mm",
-    "track1": [
-      "Deploy to Kubernetes in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Engineer Data in Google Cloud",
-      "Insights from Data with BigQuery",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 9
-  },
-  {
-    "name": "Aradhy T.",
-    "dp": "https://secure.gravatar.com/avatar/46506374390f3caf89176735124847f5.png?s=80&d=mm",
-    "track1": [
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources",
-      "Integrate with Machine Learning APIs",
-      "Engineer Data in Google Cloud",
-      "Insights from Data with BigQuery",
-      "Explore Machine Learning Models with Explainable AI"
-    ],
-    "qcomplete_no": 9
-  },
-  {
-    "name": "BULBUL Y.",
-    "dp": "https://secure.gravatar.com/avatar/e6a388dbb09da7b83a3ee844d1da7f63.png?s=80&d=mm",
-    "track1": [
-      "Deploy to Kubernetes in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Engineer Data in Google Cloud",
-      "Insights from Data with BigQuery",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 9
-  },
-  {
-    "name": "Mayankesh M.",
-    "dp": "https://secure.gravatar.com/avatar/15f0c3be423c461aed02057a6b3df140.png?s=80&d=mm",
-    "track1": [
-      "Build and Secure Networks in Google Cloud",
-      "Deploy to Kubernetes in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Insights from Data with BigQuery",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 9
   },
   {
     "name": "Ashutosh J.",
     "dp": "https://secure.gravatar.com/avatar/2d55c5531f1238675730543d0ae1b3bc.png?s=80&d=mm",
     "track1": [
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
       "Set up and Configure a Cloud Environment in Google Cloud",
       "Perform Foundational Infrastructure Tasks in Google Cloud",
       "Getting Started: Create and Manage Cloud Resources"
@@ -807,7 +877,182 @@
       "Explore Machine Learning Models with Explainable AI",
       "Getting Started: Create and Manage Cloud Resources"
     ],
+    "qcomplete_no": 11
+  },
+  {
+    "name": "Khushi K.",
+    "dp": "https://secure.gravatar.com/avatar/33e3f8eff62e065e5b3179b49bc98191.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Explore Machine Learning Models with Explainable AI",
+      "Engineer Data in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 10
+  },
+  {
+    "name": "gaurav s.",
+    "dp": "https://secure.gravatar.com/avatar/9ea5965a4b461185bda179de743fdb6e.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Explore Machine Learning Models with Explainable AI",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 10
+  },
+  {
+    "name": "Mohd Imran A.",
+    "dp": "https://secure.gravatar.com/avatar/dc194d632bc9d3b525969554656ce149.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Explore Machine Learning Models with Explainable AI",
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 10
+  },
+  {
+    "name": "Sanjana  J.",
+    "dp": "https://secure.gravatar.com/avatar/5ded8b0bbd6eb36e151b550482f43ad0.png?s=80&d=mm",
+    "track1": [
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Explore Machine Learning Models with Explainable AI",
+      "Insights from Data with BigQuery",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 9
+  },
+  {
+    "name": "Khushi R.",
+    "dp": "https://secure.gravatar.com/avatar/37aeabf8f532d8c2fa7e1839a18be07b.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Explore Machine Learning Models with Explainable AI",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
     "qcomplete_no": 8
+  },
+  {
+    "name": "Divya P.",
+    "dp": "https://secure.gravatar.com/avatar/a8384a6e60c46c1a09707b4d8b7a275a.png?s=80&d=mm",
+    "track1": [
+      "Deploy to Kubernetes in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Integrate with Machine Learning APIs",
+      "Engineer Data in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 8
+  },
+  {
+    "name": "Shruti Y.",
+    "dp": "https://secure.gravatar.com/avatar/cbdc7fda3ef0e5b0638c1a22bce2d8d1.png?s=80&d=mm",
+    "track1": [
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Engineer Data in Google Cloud",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Integrate with Machine Learning APIs",
+      "Explore Machine Learning Models with Explainable AI",
+      "Insights from Data with BigQuery",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 8
+  },
+  {
+    "name": "Manav A.",
+    "dp": "https://secure.gravatar.com/avatar/64c6c168ab0f1ca4a401c953856c10ff.png?s=80&d=mm",
+    "track1": [
+      "Build and Secure Networks in Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Explore Machine Learning Models with Explainable AI",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 8
+  },
+  {
+    "name": "varun k.",
+    "dp": "https://secure.gravatar.com/avatar/8b3fb36b5c532a45f2efed7b84204239.png?s=80&d=mm",
+    "track1": [
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Integrate with Machine Learning APIs",
+      "Engineer Data in Google Cloud",
+      "Insights from Data with BigQuery",
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 7
+  },
+  {
+    "name": "Suryansh M.",
+    "dp": "https://secure.gravatar.com/avatar/1406c4a3dffe24a3db3ff56653835472.png?s=80&d=mm",
+    "track1": [
+      "Deploy to Kubernetes in Google Cloud",
+      "Build and Secure Networks in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 7
   },
   {
     "name": "Vibhum T.",
@@ -826,12 +1071,12 @@
     "qcomplete_no": 7
   },
   {
-    "name": "Khushi K.",
-    "dp": "https://secure.gravatar.com/avatar/33e3f8eff62e065e5b3179b49bc98191.png?s=80&d=mm",
+    "name": "Shivani A.",
+    "dp": "https://secure.gravatar.com/avatar/e600a1dda10e960c16e07d83f82a0686.png?s=80&d=mm",
     "track1": [
       "Build and Secure Networks in Google Cloud",
-      "Deploy to Kubernetes in Google Cloud",
       "Deploy and Manage Cloud Environments with Google Cloud",
+      "Deploy to Kubernetes in Google Cloud",
       "Set up and Configure a Cloud Environment in Google Cloud",
       "Perform Foundational Infrastructure Tasks in Google Cloud",
       "Getting Started: Create and Manage Cloud Resources"
@@ -842,65 +1087,17 @@
     "qcomplete_no": 7
   },
   {
-    "name": "gaurav s.",
-    "dp": "https://secure.gravatar.com/avatar/9ea5965a4b461185bda179de743fdb6e.png?s=80&d=mm",
+    "name": "Aryan  D.",
+    "dp": "https://secure.gravatar.com/avatar/d61b9599b2b6005bd289a0374ca95723.png?s=80&d=mm",
     "track1": [
       "Build and Secure Networks in Google Cloud",
-      "Deploy to Kubernetes in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
       "Set up and Configure a Cloud Environment in Google Cloud",
       "Perform Foundational Infrastructure Tasks in Google Cloud",
       "Getting Started: Create and Manage Cloud Resources"
     ],
     "track2": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 7
-  },
-  {
-    "name": "Khushi R.",
-    "dp": "https://secure.gravatar.com/avatar/37aeabf8f532d8c2fa7e1839a18be07b.png?s=80&d=mm",
-    "track1": [
-      "Build and Secure Networks in Google Cloud",
-      "Deploy to Kubernetes in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 7
-  },
-  {
-    "name": "Ratnesh K.",
-    "dp": "https://secure.gravatar.com/avatar/67e9712a56f7464d93b3f6dc00067d17.png?s=80&d=mm",
-    "track1": [
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Explore Machine Learning Models with Explainable AI",
       "Engineer Data in Google Cloud",
-      "Integrate with Machine Learning APIs",
-      "Insights from Data with BigQuery",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 7
-  },
-  {
-    "name": "Manav A.",
-    "dp": "https://secure.gravatar.com/avatar/64c6c168ab0f1ca4a401c953856c10ff.png?s=80&d=mm",
-    "track1": [
-      "Build and Secure Networks in Google Cloud",
-      "Deploy to Kubernetes in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
+      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
       "Getting Started: Create and Manage Cloud Resources"
     ],
     "qcomplete_no": 7
@@ -912,6 +1109,22 @@
       "Build and Secure Networks in Google Cloud",
       "Deploy and Manage Cloud Environments with Google Cloud",
       "Deploy to Kubernetes in Google Cloud",
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 7
+  },
+  {
+    "name": "Shreyansh S.",
+    "dp": "https://secure.gravatar.com/avatar/aed60a9b2bc99261669fbbd6453a6ec2.png?s=80&d=mm",
+    "track1": [
+      "Deploy to Kubernetes in Google Cloud",
+      "Build and Secure Networks in Google Cloud",
+      "Deploy and Manage Cloud Environments with Google Cloud",
       "Set up and Configure a Cloud Environment in Google Cloud",
       "Perform Foundational Infrastructure Tasks in Google Cloud",
       "Getting Started: Create and Manage Cloud Resources"
@@ -937,107 +1150,22 @@
     "qcomplete_no": 6
   },
   {
-    "name": "Mohd Imran A.",
-    "dp": "https://secure.gravatar.com/avatar/dc194d632bc9d3b525969554656ce149.png?s=80&d=mm",
-    "track1": [
-      "Deploy to Kubernetes in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 6
-  },
-  {
-    "name": "Shruti Y.",
-    "dp": "https://secure.gravatar.com/avatar/cbdc7fda3ef0e5b0638c1a22bce2d8d1.png?s=80&d=mm",
-    "track1": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Integrate with Machine Learning APIs",
-      "Explore Machine Learning Models with Explainable AI",
-      "Insights from Data with BigQuery",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 6
-  },
-  {
-    "name": "Shreyansh S.",
-    "dp": "https://secure.gravatar.com/avatar/aed60a9b2bc99261669fbbd6453a6ec2.png?s=80&d=mm",
-    "track1": [
-      "Build and Secure Networks in Google Cloud",
-      "Deploy and Manage Cloud Environments with Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 6
-  },
-  {
-    "name": "Aayush G.",
-    "dp": "https://secure.gravatar.com/avatar/74f9533d53aa8daea1784189d21a0adc.png?s=80&d=mm",
-    "track1": [
-      "Deploy to Kubernetes in Google Cloud",
-      "Set up and Configure a Cloud Environment in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 5
-  },
-  {
-    "name": "Sanjana  J.",
-    "dp": "https://secure.gravatar.com/avatar/5ded8b0bbd6eb36e151b550482f43ad0.png?s=80&d=mm",
-    "track1": [
-      "Build and Secure Networks in Google Cloud",
-      "Deploy to Kubernetes in Google Cloud",
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 5
-  },
-  {
-    "name": "varun k.",
-    "dp": "https://secure.gravatar.com/avatar/8b3fb36b5c532a45f2efed7b84204239.png?s=80&d=mm",
-    "track1": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Insights from Data with BigQuery",
-      "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 4
-  },
-  {
     "name": "Muskan G.",
     "dp": "https://secure.gravatar.com/avatar/a8b8744aa57d17258dee2e8d4474f01e.png?s=80&d=mm",
     "track1": [
       "Getting Started: Create and Manage Cloud Resources"
     ],
     "track2": [
+      "Explore Machine Learning Models with Explainable AI",
       "Insights from Data with BigQuery",
       "Engineer Data in Google Cloud",
       "Getting Started: Create and Manage Cloud Resources"
     ],
-    "qcomplete_no": 4
+    "qcomplete_no": 5
   },
   {
-    "name": "Suryansh M.",
-    "dp": "https://secure.gravatar.com/avatar/1406c4a3dffe24a3db3ff56653835472.png?s=80&d=mm",
+    "name": "Divyansh P.",
+    "dp": "https://secure.gravatar.com/avatar/5e672e96bef273697107df326138ddef.png?s=80&d=mm",
     "track1": [
       "Set up and Configure a Cloud Environment in Google Cloud",
       "Perform Foundational Infrastructure Tasks in Google Cloud",
@@ -1049,8 +1177,8 @@
     "qcomplete_no": 4
   },
   {
-    "name": "Divyansh P.",
-    "dp": "https://secure.gravatar.com/avatar/5e672e96bef273697107df326138ddef.png?s=80&d=mm",
+    "name": "Harshit G.",
+    "dp": "https://secure.gravatar.com/avatar/79b2412b65b4b4fddf7bfa8c047f92f0.png?s=80&d=mm",
     "track1": [
       "Set up and Configure a Cloud Environment in Google Cloud",
       "Perform Foundational Infrastructure Tasks in Google Cloud",
@@ -1075,8 +1203,21 @@
     "qcomplete_no": 4
   },
   {
-    "name": "Harshit G.",
-    "dp": "https://secure.gravatar.com/avatar/79b2412b65b4b4fddf7bfa8c047f92f0.png?s=80&d=mm",
+    "name": "Ajay K.",
+    "dp": "https://secure.gravatar.com/avatar/268ca3473eb2446d6d6fb34e0af733b4.png?s=80&d=mm",
+    "track1": [
+      "Set up and Configure a Cloud Environment in Google Cloud",
+      "Perform Foundational Infrastructure Tasks in Google Cloud",
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 4
+  },
+  {
+    "name": "Akash ..",
+    "dp": "https://secure.gravatar.com/avatar/387c5663a0e05801afac370f8c3b45b2.png?s=80&d=mm",
     "track1": [
       "Perform Foundational Infrastructure Tasks in Google Cloud",
       "Getting Started: Create and Manage Cloud Resources"
@@ -1099,8 +1240,8 @@
     "qcomplete_no": 3
   },
   {
-    "name": "Priyanshu T.",
-    "dp": "https://secure.gravatar.com/avatar/fb87ac8fd2a3421ba4556892ad0565bc.png?s=80&d=mm",
+    "name": "Akshit T.",
+    "dp": "https://secure.gravatar.com/avatar/63126d88a5d340b0574e4facd8405861.png?s=80&d=mm",
     "track1": [
       "Perform Foundational Infrastructure Tasks in Google Cloud",
       "Getting Started: Create and Manage Cloud Resources"
@@ -1111,8 +1252,8 @@
     "qcomplete_no": 3
   },
   {
-    "name": "Divya P.",
-    "dp": "https://secure.gravatar.com/avatar/a8384a6e60c46c1a09707b4d8b7a275a.png?s=80&d=mm",
+    "name": "Priyanshu T.",
+    "dp": "https://secure.gravatar.com/avatar/fb87ac8fd2a3421ba4556892ad0565bc.png?s=80&d=mm",
     "track1": [
       "Perform Foundational Infrastructure Tasks in Google Cloud",
       "Getting Started: Create and Manage Cloud Resources"
@@ -1135,18 +1276,6 @@
     "qcomplete_no": 3
   },
   {
-    "name": "Aryan  D.",
-    "dp": "https://secure.gravatar.com/avatar/d61b9599b2b6005bd289a0374ca95723.png?s=80&d=mm",
-    "track1": [
-      "Perform Foundational Infrastructure Tasks in Google Cloud",
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 3
-  },
-  {
     "name": "Lovekesh S.",
     "dp": "https://secure.gravatar.com/avatar/8c7aed9b99c7a3929d6b6719ec78d6f8.png?s=80&d=mm",
     "track1": [
@@ -1157,6 +1286,17 @@
       "Getting Started: Create and Manage Cloud Resources"
     ],
     "qcomplete_no": 3
+  },
+  {
+    "name": "Aashutosh J.",
+    "dp": "https://secure.gravatar.com/avatar/78e8b063627cda665d39809456a196e5.png?s=80&d=mm",
+    "track1": [
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "track2": [
+      "Getting Started: Create and Manage Cloud Resources"
+    ],
+    "qcomplete_no": 2
   },
   {
     "name": "Richa S.",
@@ -1172,28 +1312,6 @@
   {
     "name": "Manish P.",
     "dp": "https://secure.gravatar.com/avatar/08cf9428cfb3a06815394400314ea616.png?s=80&d=mm",
-    "track1": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 2
-  },
-  {
-    "name": "Shivani A.",
-    "dp": "https://secure.gravatar.com/avatar/e600a1dda10e960c16e07d83f82a0686.png?s=80&d=mm",
-    "track1": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 2
-  },
-  {
-    "name": "Akash ..",
-    "dp": "https://secure.gravatar.com/avatar/387c5663a0e05801afac370f8c3b45b2.png?s=80&d=mm",
     "track1": [
       "Getting Started: Create and Manage Cloud Resources"
     ],
@@ -1225,19 +1343,8 @@
     "qcomplete_no": 2
   },
   {
-    "name": "Aashutosh J.",
-    "dp": "https://secure.gravatar.com/avatar/78e8b063627cda665d39809456a196e5.png?s=80&d=mm",
-    "track1": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "track2": [
-      "Getting Started: Create and Manage Cloud Resources"
-    ],
-    "qcomplete_no": 2
-  },
-  {
-    "name": "Akshit T.",
-    "dp": "https://secure.gravatar.com/avatar/63126d88a5d340b0574e4facd8405861.png?s=80&d=mm",
+    "name": "Divya M.",
+    "dp": "https://secure.gravatar.com/avatar/0cd4426dd9c48345f07e98e69c3c3f03.png?s=80&d=mm",
     "track1": [
       "Getting Started: Create and Manage Cloud Resources"
     ],
@@ -1258,8 +1365,8 @@
     "qcomplete_no": 2
   },
   {
-    "name": "Jivesh k.",
-    "dp": "https://secure.gravatar.com/avatar/1100db47628bbee5e9889d2298aaf627.png?s=80&d=mm",
+    "name": "MADHUSOODAN S.",
+    "dp": "https://secure.gravatar.com/avatar/9e4e47e7bd5a9dd0e1d16e137ceb8521.png?s=80&d=mm",
     "track1": [
       "Getting Started: Create and Manage Cloud Resources"
     ],
@@ -1269,8 +1376,8 @@
     "qcomplete_no": 2
   },
   {
-    "name": "MADHUSOODAN S.",
-    "dp": "https://secure.gravatar.com/avatar/9e4e47e7bd5a9dd0e1d16e137ceb8521.png?s=80&d=mm",
+    "name": "Jivesh k.",
+    "dp": "https://secure.gravatar.com/avatar/1100db47628bbee5e9889d2298aaf627.png?s=80&d=mm",
     "track1": [
       "Getting Started: Create and Manage Cloud Resources"
     ],
@@ -1333,18 +1440,31 @@
     "qcomplete_no": 1
   },
   {
-    "name": "Sarthak S.",
-    "dp": "https://secure.gravatar.com/avatar/7864eee99bfb50e932976c7aa220e74a.png?s=80&d=mm",
-    "track1": [],
+    "name": "Ananya Y.",
+    "dp": "https://secure.gravatar.com/avatar/31421111ae7964a9d7414830ffee8a59.png?s=80&d=mm",
+    "track1": [
+      "Perform Foundational Infrastructure Tasks in Google Cloud"
+    ],
     "track2": [],
-    "qcomplete_no": 0
+    "qcomplete_no": 1
   },
   {
-    "name": "SHIVA K.",
-    "dp": "https://secure.gravatar.com/avatar/41bca5e01c279657137b321c5b19027b.png?s=80&d=mm",
+    "name": "sai s.",
+    "dp": "https://secure.gravatar.com/avatar/bd282181f84b5c5c20f32fe849cc1f8c.png?s=80&d=mm",
     "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
+    "track2": [
+      "Integrate with Machine Learning APIs"
+    ],
+    "qcomplete_no": 1
+  },
+  {
+    "name": "sai s.",
+    "dp": "https://secure.gravatar.com/avatar/bd282181f84b5c5c20f32fe849cc1f8c.png?s=80&d=mm",
+    "track1": [],
+    "track2": [
+      "Integrate with Machine Learning APIs"
+    ],
+    "qcomplete_no": 1
   },
   {
     "name": "AYUSH RANJAN  T.",
@@ -1354,15 +1474,8 @@
     "qcomplete_no": 0
   },
   {
-    "name": "swatantra pratap s.",
-    "dp": "https://secure.gravatar.com/avatar/33b9af955549eaf8e11a999cb91fb64e.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
-    "name": "Vritti  M.",
-    "dp": "https://secure.gravatar.com/avatar/eae59a336f76644a02fac09443fb1344.png?s=80&d=mm",
+    "name": "VIKAS D.",
+    "dp": "https://secure.gravatar.com/avatar/601f9361715f4bd5c201099a7ddbb2d1.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1375,8 +1488,29 @@
     "qcomplete_no": 0
   },
   {
-    "name": "VIKAS D.",
-    "dp": "https://secure.gravatar.com/avatar/601f9361715f4bd5c201099a7ddbb2d1.png?s=80&d=mm",
+    "name": "Sarthak S.",
+    "dp": "https://secure.gravatar.com/avatar/7864eee99bfb50e932976c7aa220e74a.png?s=80&d=mm",
+    "track1": [],
+    "track2": [],
+    "qcomplete_no": 0
+  },
+  {
+    "name": "Vritti  M.",
+    "dp": "https://secure.gravatar.com/avatar/eae59a336f76644a02fac09443fb1344.png?s=80&d=mm",
+    "track1": [],
+    "track2": [],
+    "qcomplete_no": 0
+  },
+  {
+    "name": "swatantra pratap s.",
+    "dp": "https://secure.gravatar.com/avatar/33b9af955549eaf8e11a999cb91fb64e.png?s=80&d=mm",
+    "track1": [],
+    "track2": [],
+    "qcomplete_no": 0
+  },
+  {
+    "name": "SHIVA K.",
+    "dp": "https://secure.gravatar.com/avatar/41bca5e01c279657137b321c5b19027b.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1480,8 +1614,8 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Archit T.",
-    "dp": "https://secure.gravatar.com/avatar/0d6a04957669fa191ef77ac6a18202f7.png?s=80&d=mm",
+    "name": "Aakriti S.",
+    "dp": "https://secure.gravatar.com/avatar/592e02d6eb17d7b212b5050bd6332f74.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1494,22 +1628,15 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Deepansh V.",
-    "dp": "https://secure.gravatar.com/avatar/c57060319dbf32b735f4f9bcfc9a5aa2.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
-    "name": "Aakriti S.",
-    "dp": "https://secure.gravatar.com/avatar/592e02d6eb17d7b212b5050bd6332f74.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
     "name": "Prateek M.",
     "dp": "https://secure.gravatar.com/avatar/7da464a1b420c831aba4bf822844f543.png?s=80&d=mm",
+    "track1": [],
+    "track2": [],
+    "qcomplete_no": 0
+  },
+  {
+    "name": "Deepansh V.",
+    "dp": "https://secure.gravatar.com/avatar/c57060319dbf32b735f4f9bcfc9a5aa2.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1522,15 +1649,15 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Pankaj S.",
-    "dp": "https://secure.gravatar.com/avatar/207ecd90ac2b0a725dcabf16352f4025.png?s=80&d=mm",
+    "name": "sparsh b.",
+    "dp": "https://secure.gravatar.com/avatar/f015fbfa2d77d9e59aa30b667453cbc5.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
   },
   {
-    "name": "sparsh b.",
-    "dp": "https://secure.gravatar.com/avatar/f015fbfa2d77d9e59aa30b667453cbc5.png?s=80&d=mm",
+    "name": "Pankaj S.",
+    "dp": "https://secure.gravatar.com/avatar/207ecd90ac2b0a725dcabf16352f4025.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1557,15 +1684,15 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Anushka  Y.",
-    "dp": "https://secure.gravatar.com/avatar/c32f25f85b16b42fcdbda7301e8aba18.png?s=80&d=mm",
+    "name": "Shradha V.",
+    "dp": "https://secure.gravatar.com/avatar/42df1089a1e694e57473f3441f68a806.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
   },
   {
-    "name": "Shradha V.",
-    "dp": "https://secure.gravatar.com/avatar/42df1089a1e694e57473f3441f68a806.png?s=80&d=mm",
+    "name": "Anushka  Y.",
+    "dp": "https://secure.gravatar.com/avatar/c32f25f85b16b42fcdbda7301e8aba18.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1627,8 +1754,22 @@
     "qcomplete_no": 0
   },
   {
+    "name": "Archit T.",
+    "dp": "https://secure.gravatar.com/avatar/0d6a04957669fa191ef77ac6a18202f7.png?s=80&d=mm",
+    "track1": [],
+    "track2": [],
+    "qcomplete_no": 0
+  },
+  {
     "name": "Priyanshu  S.",
     "dp": "https://secure.gravatar.com/avatar/9a06e799db436cb8f017db5ca120a997.png?s=80&d=mm",
+    "track1": [],
+    "track2": [],
+    "qcomplete_no": 0
+  },
+  {
+    "name": "Rishabh R.",
+    "dp": "https://secure.gravatar.com/avatar/5a8ddde0398be57938ec71fce4c18dc9.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1648,15 +1789,15 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Rishabh R.",
-    "dp": "https://secure.gravatar.com/avatar/5a8ddde0398be57938ec71fce4c18dc9.png?s=80&d=mm",
+    "name": "Tanya G.",
+    "dp": "https://secure.gravatar.com/avatar/dd29ae7a60232b49170afda3f4776d0f.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
   },
   {
-    "name": "Tanya G.",
-    "dp": "https://secure.gravatar.com/avatar/dd29ae7a60232b49170afda3f4776d0f.png?s=80&d=mm",
+    "name": "Prince K.",
+    "dp": "https://secure.gravatar.com/avatar/429abea41ad3af11f72b91c3e5d642f0.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1671,13 +1812,6 @@
   {
     "name": "Gautam S.",
     "dp": "https://secure.gravatar.com/avatar/13795b7bba1c04e59719e8e0d6170fe8.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
-    "name": "Prince K.",
-    "dp": "https://secure.gravatar.com/avatar/429abea41ad3af11f72b91c3e5d642f0.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1704,15 +1838,8 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Vidushi R.",
-    "dp": "https://secure.gravatar.com/avatar/61987566c77b1e064929a2af647b003a.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
-    "name": "Divya M.",
-    "dp": "https://secure.gravatar.com/avatar/0cd4426dd9c48345f07e98e69c3c3f03.png?s=80&d=mm",
+    "name": "Mourya Pradeep R.",
+    "dp": "https://secure.gravatar.com/avatar/cd4df40aa884521b69fa99f310621e4d.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1732,6 +1859,13 @@
     "qcomplete_no": 0
   },
   {
+    "name": "Aarushi G.",
+    "dp": "https://secure.gravatar.com/avatar/184f0df43c73fefb548e2079874d56ba.png?s=80&d=mm",
+    "track1": [],
+    "track2": [],
+    "qcomplete_no": 0
+  },
+  {
     "name": "Ashutosh M.",
     "dp": "https://secure.gravatar.com/avatar/c99539d06f62dd0b7a206cda130b26b4.png?s=80&d=mm",
     "track1": [],
@@ -1739,15 +1873,15 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Mourya Pradeep R.",
-    "dp": "https://secure.gravatar.com/avatar/cd4df40aa884521b69fa99f310621e4d.png?s=80&d=mm",
+    "name": "Vidushi R.",
+    "dp": "https://secure.gravatar.com/avatar/61987566c77b1e064929a2af647b003a.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
   },
   {
-    "name": "Aarushi G.",
-    "dp": "https://secure.gravatar.com/avatar/184f0df43c73fefb548e2079874d56ba.png?s=80&d=mm",
+    "name": "kartikeya S.",
+    "dp": "https://secure.gravatar.com/avatar/6ffacd1d5d1bcdbeee12273da65696b5.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1767,13 +1901,6 @@
     "qcomplete_no": 0
   },
   {
-    "name": "kartikeya S.",
-    "dp": "https://secure.gravatar.com/avatar/6ffacd1d5d1bcdbeee12273da65696b5.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
     "name": "AYUSH S.",
     "dp": "https://secure.gravatar.com/avatar/06fef5c019c3fae5d5f5a409b5046de5.png?s=80&d=mm",
     "track1": [],
@@ -1788,6 +1915,13 @@
     "qcomplete_no": 0
   },
   {
+    "name": "Saurabh S.",
+    "dp": "https://secure.gravatar.com/avatar/1e7a8b6271caead652f7111646926e48.png?s=80&d=mm",
+    "track1": [],
+    "track2": [],
+    "qcomplete_no": 0
+  },
+  {
     "name": "Chetan G.",
     "dp": "https://secure.gravatar.com/avatar/b86f7ad4be1d5e2002b5d1528dd79f7e.png?s=80&d=mm",
     "track1": [],
@@ -1795,8 +1929,8 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Saurabh S.",
-    "dp": "https://secure.gravatar.com/avatar/1e7a8b6271caead652f7111646926e48.png?s=80&d=mm",
+    "name": "Shreya S.",
+    "dp": "https://secure.gravatar.com/avatar/337e0e25dfd1411cafb7c2e1f933270e.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1809,8 +1943,15 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Shreya S.",
-    "dp": "https://secure.gravatar.com/avatar/337e0e25dfd1411cafb7c2e1f933270e.png?s=80&d=mm",
+    "name": "Pankhudi Pankhudi J.",
+    "dp": "https://secure.gravatar.com/avatar/5f18e52903168d621bd220ff23087b55.png?s=80&d=mm",
+    "track1": [],
+    "track2": [],
+    "qcomplete_no": 0
+  },
+  {
+    "name": "Somashri r.",
+    "dp": "https://secure.gravatar.com/avatar/05bdb296442b4e467eeae89c383171a3.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1837,22 +1978,8 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Somashri r.",
-    "dp": "https://secure.gravatar.com/avatar/05bdb296442b4e467eeae89c383171a3.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
     "name": "Ayushi A.",
     "dp": "https://secure.gravatar.com/avatar/b171dac9e9b0996c5938d7e777f5ceb3.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
-    "name": "Pankhudi Pankhudi J.",
-    "dp": "https://secure.gravatar.com/avatar/5f18e52903168d621bd220ff23087b55.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1886,13 +2013,6 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Ananya Y.",
-    "dp": "https://secure.gravatar.com/avatar/31421111ae7964a9d7414830ffee8a59.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
     "name": "Shivansh M.",
     "dp": "https://secure.gravatar.com/avatar/7253d100b94db93806292416d1163c12.png?s=80&d=mm",
     "track1": [],
@@ -1902,6 +2022,13 @@
   {
     "name": "SHRUTI S.",
     "dp": "https://secure.gravatar.com/avatar/9ca5542b9f7e79beeee46fd3fcd051f6.png?s=80&d=mm",
+    "track1": [],
+    "track2": [],
+    "qcomplete_no": 0
+  },
+  {
+    "name": "Abhishek y.",
+    "dp": "https://secure.gravatar.com/avatar/27fae7c7537d157807b5a6007d372cde.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -1942,13 +2069,6 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Abhishek y.",
-    "dp": "https://secure.gravatar.com/avatar/27fae7c7537d157807b5a6007d372cde.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
     "name": "Saloni S.",
     "dp": "https://secure.gravatar.com/avatar/db0ed23ee64417ae66300dbc43e37b65.png?s=80&d=mm",
     "track1": [],
@@ -1956,15 +2076,15 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Pranjal S.",
-    "dp": "https://secure.gravatar.com/avatar/8d45970a760ebfa2e6a674997ecff66f.png?s=80&d=mm",
+    "name": "Varun S.",
+    "dp": "https://secure.gravatar.com/avatar/9e391b9a846917a5184d1d48d06da933.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
   },
   {
-    "name": "Varun S.",
-    "dp": "https://secure.gravatar.com/avatar/9e391b9a846917a5184d1d48d06da933.png?s=80&d=mm",
+    "name": "Pranjal S.",
+    "dp": "https://secure.gravatar.com/avatar/8d45970a760ebfa2e6a674997ecff66f.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
@@ -2026,13 +2146,6 @@
     "qcomplete_no": 0
   },
   {
-    "name": "Ajay K.",
-    "dp": "https://secure.gravatar.com/avatar/268ca3473eb2446d6d6fb34e0af733b4.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
     "name": "Sanchit S.",
     "dp": "https://secure.gravatar.com/avatar/a1cfdc1f5d83a856dab6bc8cf170dc50.png?s=80&d=mm",
     "track1": [],
@@ -2061,22 +2174,8 @@
     "qcomplete_no": 0
   },
   {
-    "name": "sai s.",
-    "dp": "https://secure.gravatar.com/avatar/bd282181f84b5c5c20f32fe849cc1f8c.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
     "name": "Pawan kumar M.",
     "dp": "https://secure.gravatar.com/avatar/8157668a368c059a68a3be65c4b0cfb6.png?s=80&d=mm",
-    "track1": [],
-    "track2": [],
-    "qcomplete_no": 0
-  },
-  {
-    "name": "sai s.",
-    "dp": "https://secure.gravatar.com/avatar/bd282181f84b5c5c20f32fe849cc1f8c.png?s=80&d=mm",
     "track1": [],
     "track2": [],
     "qcomplete_no": 0
